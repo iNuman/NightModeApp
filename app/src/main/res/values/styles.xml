@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#0E6BA8</item>
+        <item name="colorPrimaryDark">#00072D</item>
+        <item name="colorAccent">#D81B60</item>
+        <item name="textcolor">#0E6BA8</item>
+        <item name="cardbackgroundcolor">#ffffff</item>
+        <item name="backgroundcolor">#ffffff</item>
+
+    </style>
+
+
+    <!--night mode-->
+
+    <style name="Dark_Theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#00072D</item>
+        <item name="colorAccent">#008577</item>
+        <item name="textcolor">#ffffff</item>
+        <item name="cardbackgroundcolor">#0A2472</item>
+        <item name="backgroundcolor">#000000</item>
+
+    </style>
+
+
+
+</resources>
